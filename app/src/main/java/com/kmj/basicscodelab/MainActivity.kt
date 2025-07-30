@@ -41,7 +41,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.kmj.basicscodelab.ui.theme.BasicsCodelabTheme
-import com.kmj.basicscodelab.ui.viewmodel.MainViewModel
+import com.kmj.basicscodelab.viewmodel.MainViewModel
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

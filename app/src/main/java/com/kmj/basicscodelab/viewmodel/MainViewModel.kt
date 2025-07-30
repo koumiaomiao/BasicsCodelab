@@ -1,4 +1,4 @@
-package com.kmj.basicscodelab.ui.viewmodel
+package com.kmj.basicscodelab.viewmodel
 
 import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
